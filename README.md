@@ -20,4 +20,4 @@ I'm Martin, a web development student with a genuine curiosity for how the inter
 - 🚗 Cars
 
 
-*Thanks for stopping by — feel free to explore my repos!* 🚀
+*Thanks for stopping by, feel free to explore my repos!* 🚀
